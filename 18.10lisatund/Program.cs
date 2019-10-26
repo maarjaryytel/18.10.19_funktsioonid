@@ -6,7 +6,33 @@ namespace _18._10lisatund
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			string userAnswer;
+			Console.WriteLine("Are you coming or leaving?");
+			userAnswer = Console.ReadLine();
+
+			if (userAnswer.ToLower() == "coming")
+			{
+				Hello();
+			}
+			else if (userAnswer.ToLower() == "leaving")
+			{
+				Goodbye();
+				
+			}
+			else
+			{
+				Console.WriteLine("Do not be rude!");
+			}
+			Console.ReadLine();
+		}
+
+		public static void Hello()
+		{
+			Console.WriteLine("Hello");
+		}
+		public static void Goodbye()
+		{
+			Console.WriteLine("Goodbye");
 		}
 	}
 }

@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.10lisatund", "18.10lisatund\18.10lisatund.csproj", "{7C488FB1-0248-414E-AEB2-D02CC19897E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.10lisatund", "18.10lisatund\18.10lisatund.csproj", "{7C488FB1-0248-414E-AEB2-D02CC19897E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sugu_minemas_tulemas", "sugu_minemas_tulemas\sugu_minemas_tulemas.csproj", "{D4AE8B56-A4BF-4FB1-844D-D58B8B0B6B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ylesanne", "Ylesanne\Ylesanne.csproj", "{F7BB06F6-7033-479B-881F-AF08B7A6147F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "synniaasta_vanus", "synniaasta_vanus\synniaasta_vanus.csproj", "{FE27F858-24DC-4FF5-9F64-4483F07090D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isikukood jm andmed", "isikukood jm andmed\isikukood jm andmed.csproj", "{B1B6D77E-D55C-47EB-A857-76F71F2A67E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{7C488FB1-0248-414E-AEB2-D02CC19897E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C488FB1-0248-414E-AEB2-D02CC19897E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C488FB1-0248-414E-AEB2-D02CC19897E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AE8B56-A4BF-4FB1-844D-D58B8B0B6B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AE8B56-A4BF-4FB1-844D-D58B8B0B6B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AE8B56-A4BF-4FB1-844D-D58B8B0B6B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AE8B56-A4BF-4FB1-844D-D58B8B0B6B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BB06F6-7033-479B-881F-AF08B7A6147F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BB06F6-7033-479B-881F-AF08B7A6147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BB06F6-7033-479B-881F-AF08B7A6147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BB06F6-7033-479B-881F-AF08B7A6147F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE27F858-24DC-4FF5-9F64-4483F07090D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE27F858-24DC-4FF5-9F64-4483F07090D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE27F858-24DC-4FF5-9F64-4483F07090D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE27F858-24DC-4FF5-9F64-4483F07090D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B6D77E-D55C-47EB-A857-76F71F2A67E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B6D77E-D55C-47EB-A857-76F71F2A67E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B6D77E-D55C-47EB-A857-76F71F2A67E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B6D77E-D55C-47EB-A857-76F71F2A67E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
